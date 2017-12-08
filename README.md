@@ -6,5 +6,5 @@ ROMAIN METAYER
 
 THÉO LARUE
 
-THÉAU JANNETTA https://github.com/Jannetta-Theau
+THÉAU JANNETTA -> https://github.com/Jannetta-Theau
 
